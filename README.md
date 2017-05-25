@@ -1,5 +1,5 @@
 # Simple-Hash-App-
-A App that when you input a text and convert into different hash algorithm(s)
+A App that when you input a text and convert into different hash algorithm(s) with the use of Materialize CSS Framework and JQuery for DOM manipulation
 
 [0] => md2
     [1] => md4
